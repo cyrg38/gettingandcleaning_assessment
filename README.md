@@ -22,7 +22,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 ---------
 
-The submitted code "run_analysis.R" extract data directly from text files of the given dataset under path "UCI_HAR_Data/" into R objects.
+The submitted code "run\_analysis.R" extract data directly from text files of the given dataset under path "UCI HAR Dataset/" into R objects.
 
 The subsequent manipulation involves multiples subsetting, naming and reassembling of datas, in order of steps given.
 
